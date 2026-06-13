@@ -18,6 +18,7 @@ https://santiagocard123.github.io/Figma-DevMode/
 - `evidence/published-fullpage.png`: screenshot del sitio publicado.
 - `evidence/replica-fixed-frame.png`: screenshot actualizado con frame fijo de 1280x832.
 - `evidence/centered-dark-page.png`: screenshot actualizado con la pagina centrada y el fondo exterior oscuro.
+- `evidence/published-figma-devmode.png`: screenshot actualizado del despliegue en GitHub Pages.
 - `evidence/figma-dev-attempt.png`: evidencia del intento de abrir Dev Mode desde automatizacion.
 
 ## Nota de acceso
